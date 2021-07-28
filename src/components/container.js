@@ -9,7 +9,7 @@ function Container() {
   return (
     <div className="container">
       <div className="text-side">
-        <h2>questions and answers about login</h2>
+        <h2>questions and answers about login...</h2>
       </div>
       <div className="q-and-a">
         {
