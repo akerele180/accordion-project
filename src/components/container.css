@@ -1,0 +1,15 @@
+/* $width: 70vw;
+$bgColor: #4B145B; */
+
+.container {
+  width: 70vw;
+  background-color: #ffffff;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 35% 65%;
+  border-radius: 5px;
+}
+.text-side h2{
+  text-transform: capitalize;
+}
+  
