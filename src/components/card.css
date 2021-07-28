@@ -10,7 +10,6 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  /* line-height: 3rem; */
 }
 .answer {
   max-height: 0;
@@ -30,4 +29,9 @@ p {
   font-size: 18px;
   color: rgb(48, 46, 46);
   cursor: pointer;
+}
+@media only screen and (max-width: 561px) {
+  .card {
+    padding: 15px 10px;
+  }
 }
